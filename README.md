@@ -1,0 +1,1 @@
+# core-class-shop
