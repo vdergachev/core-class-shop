@@ -1,0 +1,25 @@
+
+#
+#   https://gist.github.com/ajdruff/16427061a41ca8c08c05992a6c74f59e
+#
+
+* text=auto eol=lf
+
+*.java text
+*.js text
+*.json text
+*.htm text
+*.html text
+*.xml text
+*.txt text
+*.sql text
+*.sh text
+
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.gz binary
+*.zip binary
